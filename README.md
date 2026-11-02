@@ -156,21 +156,16 @@ Additional data would be required before drawing conclusions about hospital perf
 
 ```text
 Hospital_Operations_Analytics/
-│
 ├── data/
 │   ├── hospital_patients_clean.csv
 │   └── Project1_Portfolio_Polished.xlsx
-│
 ├── sql/
 │   └── hospital_analysis.sql
-│
 ├── dashboard/
 │   ├── hospital_dashboard.pbix
 │   └── hospital_dashboard.png
-│
 ├── reports/
 │   └── Hospital_Operations_Business_Insights_and_Recommendations.pdf
-│
 └── README.md
 ```
 
